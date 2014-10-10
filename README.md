@@ -1,4 +1,4 @@
-cprogram
+C Programs
 ========
 
-Archive of C code
+This is an archive of programs for small functions in C Programming Language.
